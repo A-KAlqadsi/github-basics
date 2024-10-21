@@ -1,3 +1,5 @@
-![The Google Logo](/articleAssets/2023-06/markdown-crash-course/Google_Normal.png)
-
-
+ | Name  | Age|
+ | ----- | ---|
+ | Kyle  | 28 |
+ | Sally | 45 |
+ | Sally | 45 |
